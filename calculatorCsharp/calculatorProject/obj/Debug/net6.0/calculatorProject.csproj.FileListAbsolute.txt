@@ -1,0 +1,15 @@
+/home/kali/Desktop/calculatorCsharp/calculatorProject/bin/Debug/net6.0/calculatorProject
+/home/kali/Desktop/calculatorCsharp/calculatorProject/bin/Debug/net6.0/calculatorProject.deps.json
+/home/kali/Desktop/calculatorCsharp/calculatorProject/bin/Debug/net6.0/calculatorProject.runtimeconfig.json
+/home/kali/Desktop/calculatorCsharp/calculatorProject/bin/Debug/net6.0/calculatorProject.dll
+/home/kali/Desktop/calculatorCsharp/calculatorProject/bin/Debug/net6.0/calculatorProject.pdb
+/home/kali/Desktop/calculatorCsharp/calculatorProject/obj/Debug/net6.0/calculatorProject.csproj.AssemblyReference.cache
+/home/kali/Desktop/calculatorCsharp/calculatorProject/obj/Debug/net6.0/calculatorProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/kali/Desktop/calculatorCsharp/calculatorProject/obj/Debug/net6.0/calculatorProject.AssemblyInfoInputs.cache
+/home/kali/Desktop/calculatorCsharp/calculatorProject/obj/Debug/net6.0/calculatorProject.AssemblyInfo.cs
+/home/kali/Desktop/calculatorCsharp/calculatorProject/obj/Debug/net6.0/calculatorProject.csproj.CoreCompileInputs.cache
+/home/kali/Desktop/calculatorCsharp/calculatorProject/obj/Debug/net6.0/calculatorProject.dll
+/home/kali/Desktop/calculatorCsharp/calculatorProject/obj/Debug/net6.0/refint/calculatorProject.dll
+/home/kali/Desktop/calculatorCsharp/calculatorProject/obj/Debug/net6.0/calculatorProject.pdb
+/home/kali/Desktop/calculatorCsharp/calculatorProject/obj/Debug/net6.0/calculatorProject.genruntimeconfig.cache
+/home/kali/Desktop/calculatorCsharp/calculatorProject/obj/Debug/net6.0/ref/calculatorProject.dll
